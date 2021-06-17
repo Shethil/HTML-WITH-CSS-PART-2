@@ -1,0 +1,43 @@
+.box{
+	width: 100px;
+	height: 100px;
+
+}
+
+.red{
+	background-color: red;
+}
+
+.green{
+	background-color: green;
+	/*margin: 50px;*/ /* top bottom left right*/
+	/*margin: 50px 20px;*/ /* top-bottom left-right*/
+	/*margin: 50px 20px 10px;*/ /* top left-right bottom*/
+	/*margin: 50px 20px 10px 5px;*/ /* top right bottom left*/
+	margin-top: 50px; 
+	padding: 50px; 
+}
+
+.yellow{
+	color: yellow;
+
+}
+.blue{
+	color: blue;
+}
+
+.video{
+	width: 800px;
+
+	height: 400px;
+
+}
+
+.inline{
+	display: inline;
+}
+
+.block{
+	display: block;
+	font-size: 20px;
+}
